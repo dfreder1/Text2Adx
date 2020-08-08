@@ -39,8 +39,10 @@
    Below are valid text lines for a file:
 
 20201127 14062 cw 100 1950 kt0a 559 579 t sota w0d/bb-033  8pts
+
 20210727 7034 cw 100 2140 ke7bgm 559 559 2145 sota w6/nd-037  8pts 
+
 20211027 5332 usb 100 2152 k6hpx 559 579 2155 gud dx
 
-   Don't put empty lines in the input text file
+   Don't put empty lines in the input text file, just spread out here for clarity.
 
