@@ -24,15 +24,15 @@
 
    In your text input file:
 
--Data can be either upper or lower case, the script converts it all to upper case.
--The field should be separated by spaces, and only the Comments can have spaces, all other data should have no spaces within them.
--All 10 fields must be included, but can be "0" if you want to keep it blank
--The date should be entered as 20200730 to represent July 30 2020
--The frequency should be entered in kHz, and can include decimals.
--The script will convert, say 14062.9 to 14.0629 in the adx.
--The time should be entered as 0435 to represent 4:35 UTC.
--The time should be entered as 1422 to represent 14:22 UTC
--The Time Off can be entered as "t" and the program will just use the Time field (Time off will equal time on). I never record the time off, but i probably should :)
+*Data can be either upper or lower case, the script converts it all to upper case.
+*The field should be separated by spaces, and only the Comments can have spaces, all other data should have no spaces within them.
+*All 10 fields must be included, but can be "0" if you want to keep it blank
+*The date should be entered as 20200730 to represent July 30 2020
+*The frequency should be entered in kHz, and can include decimals.
+*The script will convert, say 14062.9 to 14.0629 in the adx.
+*The time should be entered as 0435 to represent 4:35 UTC.
+*The time should be entered as 1422 to represent 14:22 UTC
+*The Time Off can be entered as "t" and the program will just use the Time field (Time off will equal time on). I never record the time off, but i probably should :)
    
 ## Example
 
