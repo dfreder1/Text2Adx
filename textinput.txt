@@ -1,4 +1,4 @@
-20200727 5332 cw 100 2152 k6hpx 559 579 t sota w6/nd-037  8pts
+date/freq/mode/power/time/station worked/report sent/report rec'd/time off/comments
 20200728 5332 cw 100 1952 k6hpx 559 579 t sots w6/wh-007  10pts
 20200728 14063 cw 100 1910 wa7jtm 559 599 t wota w7a/cs-008  10pts
 20200721 14062 cw 100 1917 wa7ncl 559 559 t sota w7w/cw-048  6pts
@@ -10,6 +10,7 @@
 20200730 7034 cw 100 1829 ke7bgm 559 539 t sota w7a/cs-037  10pts
 20200730 7032 cw 100 1938 n6an 559 549 t sota w6/ns-330  4pts
 20200731 5332 cw 100 0002 na6mg 599 599 t sota w6/ss-292  8pts
+date/freq/mode/power/time/station worked/report sent/report rec'd/time off/comments
 20200801 18092 cw 100 1830 n1smb 229 229 t sota unknown
 20200802 7032 cw 100 1640 kn6eze 559 599 t sota w6/ct-053  8pts
 20200802 5332 cw 100 1647 n6an 559 599 t sota w6/ct-225  1pts
